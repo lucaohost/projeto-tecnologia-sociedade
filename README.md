@@ -1,5 +1,7 @@
 # projeto-tecnologia-sociedade
-Site expositivo com os conteúdo da disciplina de Tecnologia e Sociedade
+Site expositivo com os conteúdo da disciplina de Tecnologia e Sociedade.
+
+Template utilizado:
 
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
